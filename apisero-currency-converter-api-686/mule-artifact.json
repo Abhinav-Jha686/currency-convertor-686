@@ -1,0 +1,4 @@
+{
+  "minMuleVersion": "4.3.0",
+  "secureProperties": ["anypoint.platform.cleint.secret","mule.key"]	  
+}
